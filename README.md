@@ -1,11 +1,10 @@
 # jobs.uploadvr.com
-JS footer and custom CSS to overhaul functionality of jobs.uploadvr.com 
 
-These files are the final version of a frontend overhaul of jobs.uploadvr.com. All changes were ideated by myself, a UX designer, and the CEO, and 99% of code architecture and implementation is my own work. 
+These files are the final version of a frontend overhaul of jobs.uploadvr.com. All changes were ideated by a UX designer and the CEO with my input and 99% of code architecture and implementation is my own work. 
 
 #Modifications include:
 
-overhauled search functionality: the default job filters were replaced with an AJAX implementation of the jQuery Chosen dropdown plugin.
+search functionality: the default job filters were replaced with an AJAX implementation of the jQuery Chosen dropdown plugin.
 
 parallax banner: implemented with parallax.js, a jQuery plugin.
 
